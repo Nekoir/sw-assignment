@@ -1,4 +1,4 @@
-# IoT Based Agriculture Monitoring System
+# IoT Based Plant Monitoring System
 
 Group: Hustling Dinos
 
@@ -66,6 +66,7 @@ Figure 3.2: Hardware connections
 
 ## 5.0 Dashboard
 
+Link to dashboard: http://sw-assignment.atwebpages.com/
 
 ((insert figure later))
 
