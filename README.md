@@ -47,13 +47,10 @@ Sensors and things used in this project:
 
 Proposed data transmission protocol: HTTP
 
-((insert figure later))
-
+![](sensor2.jpg)
 Figure 3.1: Wiring connections
 
-
-((insert figure later))
-
+![](sensor1.jpg)
 Figure 3.2: Hardware connections
 
 <br>
@@ -68,6 +65,6 @@ Figure 3.2: Hardware connections
 
 Link to dashboard: http://sw-assignment.atwebpages.com/
 
-((insert figure later))
-
+![](dashboard.png)
+![](contdashboard.png)
 Figure 5.1: Dashboard of the system
