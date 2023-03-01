@@ -57,7 +57,7 @@ Figure 3.2: Hardware connections
 
 ## 4.0 Relational database
 
-((insert database figure)) 
+![image](https://user-images.githubusercontent.com/100333611/222044593-2b6d754e-7b6c-4ac0-bdd0-d7919a32f73b.png)
 
 <br>
 
